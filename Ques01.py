@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-df = pd.read_csv('company_sales_data.csv')
+df = pd.read_csv('Matplotlib/company_sales_data.csv')
 profit = df ['total_profit'].tolist()
 month = df['month_number'].tolist()
 plt.plot(month, profit, color = 'cyan', label = 'Total sales of data last year')
