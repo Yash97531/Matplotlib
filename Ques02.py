@@ -1,4 +1,5 @@
-# Exercise 2: Get total profit of all months and show line plot with the following Style properties
+# Exercise 2: 
+# Get total profit of all months and show line plot with the following Style properties
 # Generated line plot must include following Style properties: –
 
 # Line Style dotted and Line-color should be red

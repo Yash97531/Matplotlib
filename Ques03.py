@@ -1,4 +1,5 @@
-# Exercise 3: Read all product sales data and show it  using a multiline plot
+# Exercise 3: 
+# Read all product sales data and show it  using a multiline plot
 # Display the number of units sold per month for each product using multiline plots. (i.e., Separate Plotline for each product ).
 
 import pandas as pd
