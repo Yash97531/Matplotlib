@@ -1,4 +1,4 @@
-# 6️⃣ Top Values + Line Chart
+# 5 Top Values + Line Chart
 # Sort dataset by Feature8 in descending order.
 # Select top 15 rows.
 # Convert Feature8 to NumPy array.
