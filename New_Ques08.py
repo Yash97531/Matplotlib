@@ -1,16 +1,12 @@
-8️⃣ Outlier Detection + Highlighting
+8️⃣ Multi-Column Analysis
 
-Use NumPy:
+Select numeric columns:
+Feature1, Feature2, Feature6, Feature8, Feature11
 
-mean ± 2 × std on Feature1
+Compute correlation matrix.
 
-Identify outliers.
-
-Plot scatter plot of all data.
-
-Highlight outliers in different color.
-
+Plot heatmap using Matplotlib (without seaborn).
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-df = pd.read_csv('Matpotlib/output.csv')
+df = pd.read_csv('Matplotlib/output.csv')

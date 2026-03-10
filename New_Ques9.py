@@ -1,4 +1,4 @@
-🔟 Mini Project Question (Full Analysis)
+9️⃣ Mini Project Question (Full Analysis)
 
 Perform complete analysis:
 
@@ -26,4 +26,4 @@ Save all plots as images i am di\oing these questions
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-df = pd.read_csv('Matpotlib/output.csv')
+df = pd.read_csv('Matplotlib/output.csv')

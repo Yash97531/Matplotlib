@@ -7,6 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 df = pd.read_csv('Matplotlib/output.csv')
 a = df['Feature18'].value_counts().reset_index()
+print(a)
 numpy_array = np.array(a['count'])
 # print(numpy_array)
 l = a['Feature18']
